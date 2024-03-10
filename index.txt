@@ -1,0 +1,3 @@
+index.txt contents
+line2
+line3
